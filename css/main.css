@@ -33,12 +33,18 @@ h1{
   margin:  auto;
 
 }
-
 .caja{
+background-color: #bac2df;
   display: inline-block;
-  margin: auto 5px 5px;
+  margin: 10px 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  width: 30%;
-  margin-top: 63px;
+  width: 200px;
 
+}
+
+footer{
+  background-color: #58D3F7;
+  text-align: center;
+  color: white;
+  
 }
