@@ -3,7 +3,7 @@ body{
 }
 
 header{
-  background-color: #187777;
+  background-color: #58D3F7;
   padding: 3px;
 
 
@@ -34,7 +34,8 @@ h1{
 
 }
 .caja{
-background-color: #bac2df;
+  background-color: #58D3F7;
+  color: white;
   display: inline-block;
   margin: 10px 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -46,5 +47,5 @@ footer{
   background-color: #58D3F7;
   text-align: center;
   color: white;
-  
+
 }
